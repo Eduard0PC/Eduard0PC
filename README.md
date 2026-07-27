@@ -1,4 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=¡Hi,%20I'm%20Eduardo%20Poot!&height=100&animation=fadeIn&color=gradient" alt="¡Hola soy Eduardo Poot!" />
-  <a href="https://github.com/Eduard0PC"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=37&pause=1000&width=435&lines=Software+Enthusiast;Engineering+Student;Developer" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Eduardo%20Poot&fontSize=48&fontAlignY=35&animation=fadeIn&color=gradient"/>
+
+<h3>Software Engineering Student</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Web+%26+Mobile+Application+Development;Continuous+Learning+%26+Improvement"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,angular,ts,js,html,css,tailwind,postgres,git,linux,vscode" />
+
+</div>
